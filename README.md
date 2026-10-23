@@ -1,3 +1,5 @@
+Lưu toàn bộ phần code dưới đây vào một file tên "index.html".
+
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -417,4 +419,4 @@ renderProducts();
 </script>
 
 </body>
-</html># S-n-Deal-gi-T-t-
+</html>
